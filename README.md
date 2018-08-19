@@ -26,3 +26,8 @@ Sitio tipo Landing Page, usando Javascript con el framework Bootstrap, y React. 
 
 ## Autores
 CryptosTabasco en Villahermosa Tabasco, Mexico
+
+## Contacto
+Twitter: @cryptostabasco
+FB: http://fb.me/cryptostabasco
+Email: cryptostabasco@gmail.com
