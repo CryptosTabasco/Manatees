@@ -4,7 +4,7 @@
 ************************************
 
 # Descripción
-Cryptos Tabasco desarrollo este sitio con el objetivo de que se tenga un sitio que se puedan aceptar donaciones para salvar al manatee en Tabasco. Este proyecto se hizo con alianzas con el grupo RITA el cual esta ocupado de atender los desastres naturales en la region de Macuspana donde fugas de tuberia de gas natural y petroleo contamino los rios y yaciminetos acuiferos de la región. 
+Cryptos Tabasco desarrolló este sitio con el objetivo de que se tenga un espacio donde se puedan aceptar donaciones para salvar al manatee en Tabasco. Este proyecto se hizo en alianza con el grupo RITA, el cual esta ocupado de atender las afectaciones en la region de Macuspana donde fugas de gas natural y petroleo contaminó los rios y yaciminetos acuiferos de la región.
 
 ## Objetivo
 Tener un sitio capas de poder recibir donaciones de todas partes del mundo usando multiples criptodivisas soportadas por exchanges nacionales los cuales puedan ser transferidos a las cuentas de banco de la organizacion. El sitio tambien estara completamente traducido en multiples idiomas tales como.
