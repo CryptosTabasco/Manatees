@@ -1,7 +1,6 @@
 ************************************
-***     Sitio de Donaciones      ***
-***   para el manatee en Tabasco ***
-***                              ***
+##     Sitio de Donaciones      
+##   para el manatee en Tabasco 
 ************************************
 
 # Descripción
