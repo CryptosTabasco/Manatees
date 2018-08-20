@@ -1,3 +1,4 @@
+#! /usr/bin/python2
 import bitso
 
 #Flow for transfer api
@@ -5,6 +6,8 @@ try:
     import config
 except ImportError as error:
     print "No se encontro tus claves bancarias y de BITSO, Favor de crear un archivo config.py conteniendo estas"
+
+api = bitso.Api(API_KEY, API_SECRET)
 
 #get the balances
 foundation_balance = api.balances()

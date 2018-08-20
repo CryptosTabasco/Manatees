@@ -1,7 +1,10 @@
 """ Handle Private Data from Account Owner """
+""" BITSO API """
 API_KEY = "xxxxx"
 API_SECRET = "XXXXXXXXXXXXXXXXXXX"
-api = bitso.Api(API_KEY, API_SECRET)
+
+""" Bank API """
+
 CLABE = "000000000000000000"
 WALLET_AUTOMATIC_SELL = "ABCXXXXXXXXXXXXXXXXX"
 FIRST_NAMES = "xxxxx"
