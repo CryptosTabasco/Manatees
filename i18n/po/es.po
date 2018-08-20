@@ -1,0 +1,135 @@
+# PO files for site "Save the Manatee"
+# Translated by JZA 2018
+# Source file English
+# Translators:
+# JZA <jza@oooes.org>, 2018
+msgid ""
+msgstr ""
+"Last-Translator: JZA <jza@oooes.org>, 2018\n"
+"Language-Team: Spanish (https://www.transifex.com/cryptostabasco/teams/89500/es/)\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Title"
+msgstr "Ayuda a salvar a los manatis"
+
+msgid "Heading"
+msgstr ""
+"Conflicto actual es la perdida futura. Dona criptodivisas y ayuda a salvar "
+"la vida de los manatis"
+
+msgid "Title2"
+msgstr "El Problema"
+
+msgid "Problem"
+msgstr ""
+"Desde el 9 de Marzo del 2018 surgió un numero de muertes de aproximadamente "
+"100 manatis en los pantanos de Centla, el cual incluye los municipios de "
+"Centla, Jonuta y Macuspana. Esta región fue declarada como reserva natural, "
+"por esta razón algunos de los centros petrolíferos fueron cerrados sin "
+"embargo otros permanecieron activos sin mantenimiento. Actualmente existen "
+"múltiples fugas de los ductos de gas y petroleo causando una gran cantidad "
+"de muertes de múltiples especies en la región."
+
+msgid "Title3"
+msgstr "Nuestra camapaña de acción"
+
+msgid "Action"
+msgstr ""
+"Estamos creando alianzas entre las ONG locales para la implementación de "
+"planes de rescate de los manatis, esto consisten en tomar a los manatis a "
+"zonas de cuarentena, lejos de las áreas afectadas por la contaminación que "
+"causó la muerte de nuestros manatis y otras especies en el área."
+
+msgid "Title4"
+msgstr "El reto más grande, y como puedes ayudar"
+
+msgid "Help"
+msgstr ""
+"El problema más grande que se esta enfrentando es la falta de recursos para "
+"acarrear estudios químicos y físicos para determinar la razón de las "
+"muertes, gracias al apoyo de sus donaciones nos permitirá actuar mas rápido "
+"y detectar la forma más rápida de asistir con medicamentos a los que lo "
+"necesiten, realizar pagos y contactar a personal especializado para llevar a"
+" cabo las tareas que necesiten más especialización."
+
+msgid "Title5"
+msgstr "Servicios"
+
+msgid "Services"
+msgstr ""
+
+msgid "Title6"
+msgstr "Donaciones"
+
+msgid "Donations"
+msgstr ""
+"Puedes ayudarnos enviandonos criptodivisas y asegurar que podamos obtener "
+"los recursos sin necesidad de intermediarios y que nos ayuden a que podamos "
+"gozar de un futuro a lado de nuestros manatis."
+
+msgid "Buttons"
+msgstr "Dona ahora"
+
+msgid "Title7"
+msgstr "Conoce a nuestro equipo de trabajo"
+
+msgid "Title8"
+msgstr "Nos especializamos"
+
+msgid "Item1"
+msgstr ""
+
+msgid "Item2"
+msgstr ""
+
+msgid "Item3"
+msgstr ""
+
+msgid "Title9"
+msgstr "Nuestros proyectos"
+
+msgid "Title19"
+msgstr "Que dice la gente de nostros"
+
+msgid "Message1"
+msgstr ""
+
+msgid "Message2"
+msgstr ""
+
+msgid "Message3"
+msgstr ""
+
+msgid "Title11"
+msgstr "Contactenos"
+
+msgid "Address1"
+msgstr ""
+
+msgid "Title12"
+msgstr "Información de contacto"
+
+msgid "Title13"
+msgstr "Síguenos en nuestras redes sociales"
+
+msgid "Footer1"
+msgstr "RITA"
+
+msgid "Footer_menu1"
+msgstr "Inicio"
+
+msgid "Footer_menu2"
+msgstr "Sobre Nosotros"
+
+msgid "Footer_menu3"
+msgstr "Servicio"
+
+msgid "Footer_menu4"
+msgstr "Equipo"
+
+msgid "Footer_menu5"
+msgstr "Proyectos"
+
+msgid "Footer_menu6"
+msgstr "Contactenos"
