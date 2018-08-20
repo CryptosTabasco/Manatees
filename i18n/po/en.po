@@ -30,13 +30,13 @@ msgid "Title5"
 msgstr "Services"
 
 msgid "Services"
-msgstr "Since 9th March 2018 there is a record of the death of more than 100 manatees in Pantanos de Centla, which includes the municipalities of Centla, Jonuta and Macuspana. This place was decreed as a protected natural area, for this reason some of the nearby oil wells were closed and others remained active without any maintenance. At present, there are multiple leaks and broken pipelines that have caused the death of the species."
+msgstr "We have been providing on-the-ground rescue services for all type of animals in the ecosystem that we have been able to rescue. We have also provided comunication with the local community about possible solutions and best way to identify and closee the source of polution. We are talking with other NGO and government organizations to act quickly."
 
 msgid "Title6"
 msgstr "Donations"
 
 msgid "Donations"
-msgstr "You can help by send us cryptocurrency and insure that we can get the money without intermediaries and help us save the species so we can have a future with our dear manatees."
+msgstr "You can help by send us cryptocurrency and insure that we can get the money without intermediaries and help us save the species so we can have a future with our dear manatees. We accept the following cryptocurrencies:"
 
 msgid "Buttons"
 msgstr "Donate"
@@ -75,7 +75,7 @@ msgid "Title11"
 msgstr "Contact Us"
 
 msgid "Address1"
-msgstr "435 City hall, <br /> New York City SD092."
+msgstr "Acolotitla 31 <br />Barrio San Lucas <br />Del. Coyoacán, México DF"
 
 msgid "Title12"
 msgstr "Contact Info"
