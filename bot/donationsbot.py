@@ -1,15 +1,10 @@
 import bitso
-API_KEY = "xxxxx"
-API_SECRET = "XXXXXXXXXXXXXXXXXXX"
-api = bitso.Api(API_KEY, API_SECRET)
-CLABE = "000000000000000000"
-WALLET_AUTOMATIC_SELL = "ABCXXXXXXXXXXXXXXXXX"
-FIRST_NAMES = "xxxxx"
-LAST_NAMES = "xxxxx"
-NOTES_REF = "xx1"
-NUMERIC_REF = "1234"
 
 #Flow for transfer api
+try:
+    import config
+except ImportError as error:
+    print "No se encontro tus claves bancarias y de BITSO, Favor de crear un archivo config.py conteniendo estas"
 
 #get the balances
 foundation_balance = api.balances()
