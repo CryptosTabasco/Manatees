@@ -775,68 +775,16 @@
 
 	<!-- Baneer-js -->
 	<script src="js/responsiveslides.min.js"></script>
-	<script>
-		// You can also use "$(window).load(function() {"
-		$(function () {
-			// Slideshow 4
-			$("#slider4").responsiveSlides({
-				auto: true,
-				pager: true,
-				nav: false,
-				speed: 500,
-				namespace: "callbacks",
-				before: function () {
-					$('.events').append("<li>before event fired.</li>");
-				},
-				after: function () {
-					$('.events').append("<li>after event fired.</li>");
-				}
-			});
-
-		});
-	</script>
+	<script src="js/landing/baneer.js"></script>
 	<!-- //Baneer-js -->
 
 	<!-- navigation -->
-	<script>
-		(function ($) {
-			// Menu Functions
-			$(document).ready(function () {
-				$('#menuToggle').click(function (e) {
-					var $parent = $(this).parent('.menu');
-					$parent.toggleClass("open");
-					var navState = $parent.hasClass('open') ? "hide" : "show";
-					$(this).attr("title", navState + " navigation");
-					// Set the timeout to the animation length in the CSS.
-					setTimeout(function () {
-						console.log("timeout set");
-						$('#menuToggle > span').toggleClass("navClosed").toggleClass("navOpen");
-					}, 200);
-					e.preventDefault();
-				});
-			});
-		})(jQuery);
-	</script>
+	<script src="js/landing/navigation.js"></script>
 	<!-- //navigation -->
 
 	<!-- pop-up(for video popup)-->
 	<script src="js/jquery.magnific-popup.js"></script>
-	<script>
-		$(document).ready(function () {
-			$('.popup-with-zoom-anim').magnificPopup({
-				type: 'inline',
-				fixedContentPos: false,
-				fixedBgPos: true,
-				overflowY: 'auto',
-				closeBtnInside: true,
-				preloader: false,
-				midClick: true,
-				removalDelay: 300,
-				mainClass: 'my-mfp-zoom-in'
-			});
-
-		});
-	</script>
+	<script src="js/landing/popup-video.js"></script>
 	<!-- //pop-up-box (syllabus section video)-->
 
 	<!-- video js (background) -->
@@ -848,56 +796,18 @@
 	<!-- //smoothscroll -->
 
 	<!-- password-script -->
-	<script>
-		window.onload = function () {
-			document.getElementById("password1").onchange = validatePassword;
-			document.getElementById("password2").onchange = validatePassword;
-		}
-
-		function validatePassword() {
-			var pass2 = document.getElementById("password2").value;
-			var pass1 = document.getElementById("password1").value;
-			if (pass1 != pass2)
-				document.getElementById("password2").setCustomValidity("Passwords Don't Match");
-			else
-				document.getElementById("password2").setCustomValidity('');
-			//empty string means no validation error
-		}
-	</script>
+	<script src="js/landing/password.js"></script>
 	<!-- //password-script -->
 
 	<!-- start-smooth-scrolling -->
 	<script src="js/move-top.js"></script>
 	<script src="js/easing.js"></script>
-	<script>
-		jQuery(document).ready(function ($) {
-			$(".scroll").click(function (event) {
-				event.preventDefault();
-
-				$('html,body').animate({
-					scrollTop: $(this.hash).offset().top
-				}, 1000);
-			});
-		});
-	</script>
+	<script src="js/landing/smooth-scrolling.js"></script>
 	<!-- //end-smooth-scrolling -->
 
 	<!-- smooth scrolling-bottom-to-top -->
-	<script>
-		$(document).ready(function () {
-			/*
-				var defaults = {
-				containerID: 'toTop', // fading element id
-				containerHoverID: 'toTopHover', // fading element hover id
-				scrollSpeed: 1200,
-				easingType: 'linear'
-				};
-			*/
-			$().UItoTop({
-				easingType: 'easeOutQuart'
-			});
-		});
-	</script>
+	<script src="js/landing/smooth-scrolling.js"></script>
+
 	<a href="#" id="toTop" style="display: block;">
 		<span id="toTopHover" style="opacity: 1;"> </span>
 	</a>
@@ -905,45 +815,14 @@
 
 	<!-- flexSlider (for testimonials) -->
 	<script defer src="js/jquery.flexslider.js"></script>
-	<script>
-		$(window).load(function () {
-			$('.flexslider').flexslider({
-				animation: "slide",
-				start: function (slider) {
-					$('body').removeClass('loading');
-				}
-			});
-		});
-	</script>
+	<script src="js/landing/flexSlider.js"></script>
 	<!-- //flexSlider (for testimonials) -->
 
+    <!-- translate -->
+    <script src="js/jqueryTranslator.min.js"></script>
+	<script src="js/landing/translate.js"></script>
+
 	<!-- //js-scripts -->
-	<!-- translate -->
-<script src="js/jqueryTranslator.min.js"></script>
-	<script>
-		(function () {
-			$("[data-translate]").jqTranslate('i18n/index',{defaultLang: 'en'});
-        })();
-        $(document).ready(function () {
-
-            $("#spanish").on("click",function (e) {
-                console.log("asdasdasd");
-                (function () {
-                    $("[data-translate]").jqTranslate('i18n/index',{defaultLang: 'en',forceLang: "es",asyncLangLoad: false});
-                })();
-                console.log("xxxxx");
-            });
-
-			$("#english").on("click",function (e) {
-                console.log("asdasdasd");
-                (function () {
-                    $("[data-translate]").jqTranslate('i18n/index',{defaultLang: 'es',forceLang: "en",asyncLangLoad: false});
-                })();
-                console.log("xxxxx");
-            })
-
-        });
-	</script>
 
 </body>
 
