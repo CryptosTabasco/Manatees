@@ -3,7 +3,7 @@
 # Source file English
 
 msgid "Title"
-msgstr "Save the Life of Manatees"
+msgstr "Save the Lives of Manatees"
 
 msgid "Heading"
 msgstr "Present Conflict, future loss, Donate Cryptocurrencies and save the life of manatees"
