@@ -1,0 +1,141 @@
+# PO files for site "Save the Manatee"
+# Translated by JZA 2018
+# Source file English
+# Translators:
+# edgar ramirez <eiky.smartcash@gmail.com>, 2018
+msgid ""
+msgstr ""
+"Last-Translator: edgar ramirez <eiky.smartcash@gmail.com>, 2018\n"
+"Language-Team: Portuguese (Brazil) (https://www.transifex.com/cryptostabasco/teams/89500/pt_BR/)\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Title"
+msgstr "Ajude a salvar os peixes-boi"
+
+msgid "Heading"
+msgstr ""
+"Conflito presente, Perda futura, Doe Criptomoedas e salve a vida dos peixes-"
+"boi"
+
+msgid "Title2"
+msgstr "O Problema"
+
+msgid "Problem"
+msgstr ""
+"Desde 9 de março de 2018 há um grande aumento de mortes de aproximadamente "
+"100 peixes-boi nos pântanos Centla, que incluem os condados de Centla, "
+"Jonuta e Macuspana. Esta região foi decretada como uma área natural "
+"protegida, por isso alguns dos poços de petróleo próximos foram fechados e "
+"outros permaneceram ativos sem qualquer manutenção. Atualmente, existem "
+"vários vazamentos e dutos quebrados que causaram a morte de várias espécies "
+"na região."
+
+msgid "Title3"
+msgstr "Nossa campanha de ação"
+
+msgid "Action"
+msgstr ""
+"Estamos fazendo uma aliança entre as ONGs locais para a implementação de um "
+"plano de resgate de peixe-boi, que consiste em levar os peixes-boi a uma "
+"zona de quarentena, longe da área poluída afetada que causa a mortalidade de"
+" nossos peixes-boi e outras espécies na área. ."
+
+msgid "Title4"
+msgstr "Nossos desafios e como você pode ajudar"
+
+msgid "Help"
+msgstr ""
+"O maior problema que estamos enfrentando é a falta de recursos para realizar"
+" os estudos físico e químicos para determinar o motivo de suas mortes, "
+"contando com o apoio da sua doação nos podemos fazer a transferência da "
+"espécie para áreas com zero contaminação fornecendo os cuidados necessários "
+"e alimentos, bem como dar-lhes os medicamentos de que necessitam, pagamentos"
+" a pessoal treinado e realização dos estudos relevantes."
+
+msgid "Title5"
+msgstr "Serviços"
+
+msgid "Services"
+msgstr ""
+"Desde 9 de março de 2018, há um registro da morte de mais de 100 peixes-boi "
+"em Pantanos de Centla, que inclui os municípios de Centla, Jonuta e "
+"Macuspana. Este local foi decretado como uma área natural protegida, por "
+"isso alguns dos poços de petróleo próximos foram fechados e outros "
+"permaneceram ativos sem qualquer manutenção. Atualmente, existem vários "
+"vazamentos e tubulações quebradas que causaram a morte da espécie."
+
+msgid "Title6"
+msgstr "Doações"
+
+msgid "Donations"
+msgstr ""
+"Você pode nos ajudar enviando criptomoedas e garantir que podemos obter o "
+"dinheiro sem intermediários e nos ajudar a salvar as espécies para que "
+"possamos ter um futuro com nossos queridos peixes-boi."
+
+msgid "Buttons"
+msgstr "Doar"
+
+msgid "Title7"
+msgstr "Conheça nossa equipe"
+
+msgid "Title8"
+msgstr "Somos especialistas em"
+
+msgid "Item1"
+msgstr ""
+
+msgid "Item2"
+msgstr ""
+
+msgid "Item3"
+msgstr ""
+
+msgid "Title9"
+msgstr "Nosso projeto"
+
+msgid "Title19"
+msgstr "O que as pessoas dizem"
+
+msgid "Message1"
+msgstr ""
+
+msgid "Message2"
+msgstr ""
+
+msgid "Message3"
+msgstr ""
+
+msgid "Title11"
+msgstr "Entre em contato"
+
+msgid "Address1"
+msgstr "435 City hall, New York City SD092."
+
+msgid "Title12"
+msgstr "Informações de contato"
+
+msgid "Title13"
+msgstr "Siga-nos nas redes sociais"
+
+msgid "Footer1"
+msgstr "RITA"
+
+msgid "Footer_menu1"
+msgstr "Inicio"
+
+msgid "Footer_menu2"
+msgstr "Sobre nos"
+
+msgid "Footer_menu3"
+msgstr "Serviços"
+
+msgid "Footer_menu4"
+msgstr "Equipe"
+
+msgid "Footer_menu5"
+msgstr "Projeto"
+
+msgid "Footer_menu6"
+msgstr "Contate-Nos"
