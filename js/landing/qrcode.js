@@ -1,0 +1,1 @@
+$('#qrbtc').qrcode("37dDafPsMSMvSK4xEMoKWZCZpPZdKC7Tjn");
