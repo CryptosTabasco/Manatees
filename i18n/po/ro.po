@@ -1,0 +1,142 @@
+# PO files for site "Save the Manatee"
+# Translated by JZA 2018
+# Source file English
+# Translators:
+# Irina Ondusko <unravelthedream@gmail.com>, 2018
+msgid ""
+msgstr ""
+"Last-Translator: Irina Ondusko <unravelthedream@gmail.com>, 2018\n"
+"Language-Team: Romanian (https://www.transifex.com/cryptostabasco/teams/89500/ro/)\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+
+msgid "Title"
+msgstr "Salvează Viața Lamantinilor"
+
+msgid "Heading"
+msgstr ""
+"Conflicte Prezente, Viitoare pierderi,  Donează Cryptomonede și Salvează "
+"Viața  Lamantinilor"
+
+msgid "Title2"
+msgstr "Problema"
+
+msgid "Problem"
+msgstr ""
+"Începând din data de 9 martie 2018, au murit o mare parte din cei 100 de "
+"lamantini din mlaștinile Centla, care include județele Centla, Jonuta și "
+"Macuspana. Această regiune a fost decretată ca zonă naturală protejată, din "
+"acest motiv unele dintre puțurile de petrol din apropiere au fost închise, "
+"iar altele au rămas active fără întreținere. În prezent există mai multe "
+"scurgeri și conducte rupte care au provocat moartea mai multor specii din "
+"regiune."
+
+msgid "Title3"
+msgstr "Campania Noastră de Acțiune"
+
+msgid "Action"
+msgstr ""
+"Facem o alianță între ONG-urile locale pentru punerea în aplicare a unui "
+"plan de salvare a lamantinilor. Acest plan constă în a pune lamantinii "
+"într-o zonă de carantină, departe de zona poluată care cauzează mortalitatea"
+" lamantinilor precum și ale altor specii din zonă."
+
+msgid "Title4"
+msgstr "Provocările noastre și cum poți ajuta"
+
+msgid "Help"
+msgstr ""
+"Cea mai mare problemă cu care ne confruntăm este lipsa de resurse pentru "
+"realizarea studiilor fizico-chimice pentru a determina motivul morții "
+"acestora. Cu sprijinul donațiilor , putem muta specia în zone cu contaminare"
+" zero, oferind îngrijirea necesară și alimentația, precum și acordarea "
+"medicamentelor necesare, plățile către personalul instruit și efectuarea "
+"studiilor relevante."
+
+msgid "Title5"
+msgstr "Servicii"
+
+msgid "Services"
+msgstr ""
+"Începând din data de 9 martie 2018, au murit o mare parte din cei 100 de "
+"lamantini din mlaștinile Centla, care include județele Centla, Jonuta și "
+"Macuspana. Această regiune a fost decretată ca zonă naturală protejată, din "
+"acest motiv unele dintre puțurile de petrol din apropiere au fost închise, "
+"iar altele au rămas active fără întreținere. În prezent există mai multe "
+"scurgeri și conducte rupte care au provocat moartea mai multor specii din "
+"regiune."
+
+msgid "Title6"
+msgstr " Donații"
+
+msgid "Donations"
+msgstr ""
+"Poți ajuta prin a trimite cryptomonede, ceea ce asigură că putem obține "
+"banii fără intermediari și ne ajută să salvăm specia astfel încât să putem "
+"avea un viitor cu dragii noștri lamantini. "
+
+msgid "Buttons"
+msgstr "Donează"
+
+msgid "Title7"
+msgstr "Cunoaște Echipa"
+
+msgid "Title8"
+msgstr "Suntem experți în"
+
+msgid "Item1"
+msgstr ""
+
+msgid "Item2"
+msgstr ""
+
+msgid "Item3"
+msgstr ""
+
+msgid "Title9"
+msgstr "Proiectul Nostru"
+
+msgid "Title19"
+msgstr "Ce spun oamenii"
+
+msgid "Message1"
+msgstr ""
+
+msgid "Message2"
+msgstr ""
+
+msgid "Message3"
+msgstr ""
+
+msgid "Title11"
+msgstr " Contactează-ne "
+
+msgid "Address1"
+msgstr "435 City hall, New York City SD092."
+
+msgid "Title12"
+msgstr " Informații de contact "
+
+msgid "Title13"
+msgstr "Conectează-te cu noi social"
+
+msgid "Footer1"
+msgstr "RITA"
+
+msgid "Footer_menu1"
+msgstr "Acasă"
+
+msgid "Footer_menu2"
+msgstr "Despre"
+
+msgid "Footer_menu3"
+msgstr "Servicii"
+
+msgid "Footer_menu4"
+msgstr "Echipa"
+
+msgid "Footer_menu5"
+msgstr "Proiectul"
+
+msgid "Footer_menu6"
+msgstr "Contactează-ne "
