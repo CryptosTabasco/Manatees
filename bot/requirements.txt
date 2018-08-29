@@ -11,3 +11,4 @@ requests==2.19.1
 six==1.11.0
 urllib3==1.23
 websocket-client==0.40.0
+pycron==0.80.0

@@ -1,32 +1,31 @@
-#! /usr/bin/python2
 import bitso
+import pycron
 
-# Flow for transfer api
-try:
-    import config
-except ImportError as error:
-    print "No se encontro tus claves bancarias y de BITSO, Favor de crear un archivo config.py conteniendo estas"
+import config
 
-api = bitso.Api(API_KEY, API_SECRET)
 
-# get the balances
-foundation_balance = api.balances()
+class BotBistoPy:
 
-# print foundation_balance.mxn.available
-# print foundation_balance.btc.available
+    def __init__(self):
+        self.api_key = config.API_KEY
+        self.api_secret = config.API_SECRET
+        self.api = bitso.Api(self.api_key, self.api_secret)
+        self.balance = self.get_balance_available()
 
-if foundation_balance.mxn.available > 100:
-    print api.spei_withdrawal(
-        amount=foundation_balance.mxn.available,
-        first_names=FIRST_NAMES,
-        last_names=LAST_NAMES,
-        clabe=CLABE,
-        notes_ref=NOTES_REF,
-        numeric_ref=NUMERIC_REF
-    )
+    def get_balance_available(self):
+        # currency = bch,btc,eth,ltc,tusd,xrp,mxn
+        self.balance = self.api.balances().mxn.available
+        return self.balance
 
-# moving to btc automatic sell wallet address
-# print api.btc_withdrawal(str(foundation_balance.btc.available), WALLET_AUTOMATIC_SELL)
-
-# pycron L-V 9-17
-# pycron.is_now('*/15 09-17 * * 1,2,3,4,5')
+    def spei_withdrawal(self):
+        if self.get_balance_available() > 100:
+            # pycron L-V 9-17
+            if pycron.is_now('*/15 09-17 * * 1,2,3,4,5'):
+                self.api.spei_withdrawal(
+                    amount=self.balance.mxn.available,
+                    first_names=config.FIRST_NAMES,
+                    last_names=config.LAST_NAMES,
+                    clabe=config.CLABE,
+                    notes_ref=config.NOTES_REF,
+                    numeric_ref=config.NUMERIC_REF
+                )
