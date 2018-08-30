@@ -31,31 +31,29 @@ class BotBistoPy:
                 )
 
     def trade_cryptos(self):
-        # books = self.api.available_books()
+        books = self.api.available_books()
+
+        crypto_quantity = {}
+        crypto_price = {}
+
+        cryptos = self.balance.__dict__
 
         # obtener las cantidad de cryptos que hay
-        btc = self.balance.btc.available
-        eth = self.balance.eth.available
-        xrp = self.balance.xrp.available
-        ltc = self.balance.ltc.available
-        bch = self.balance.bch.available
-        tusd = self.balance.tusd.available
+        for data in self.balance.currencies:
+            crypto_quantity.update({data: cryptos[data].available})
 
-        # checar a cuanto es el precio de compra de la crypto
-        btc_price = self.api.ticker('btc_mxn').last
-        eth_price = self.api.ticker('eth_mxn').last
-        xrp_price = self.api.ticker('xrp_mxn').last
-        ltc_price = self.api.ticker('ltc_mxn').last
-        bch_price = self.api.ticker('bch_mxn').last
-        tusd_price = self.api.ticker('tusd_mxn').last
+        # obtener el precio actual de cada crypto
+        for book in books.books:
+            if book.endswith('mxn'):
+                crypto_price.update({book: self.api.ticker(book).last})
 
         # obtener el precio en mxn de las cryptos que hay
-        btc_mxn = btc * btc_price
-        eth_mxn = eth * eth_price
-        xrp_mxn = xrp * xrp_price
-        ltc_mxn = ltc * ltc_price
-        bch_mxn = bch * bch_price
-        tusd_mxn = tusd * tusd_price
+        btc_mxn = crypto_quantity['btc'] * crypto_price['btc_mxn']
+        eth_mxn = crypto_quantity['eth'] * crypto_price['eth_mxn']
+        xrp_mxn = crypto_quantity['xrp'] * crypto_price['xrp_mxn']
+        ltc_mxn = crypto_quantity['ltc'] * crypto_price['ltc_mxn']
+        bch_mxn = crypto_quantity['bch'] * crypto_price['bch_mxn']
+        tusd_mxn = crypto_quantity['tusd'] * crypto_price['tusd_mxn']
 
         # validar si equivale a mas de 100 mxn vender
         if btc_mxn > 100:
@@ -82,4 +80,5 @@ class BotBistoPy:
 
 
 bot = BotBistoPy()
-#print bot.balance
+bot.trade_cryptos()
+# print bot.balance
