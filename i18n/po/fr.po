@@ -1,0 +1,160 @@
+# PO files for site "Save the Manatee"
+# Translated by JZA 2018
+# Source file English
+# Translators:
+# carlo mile <carlomile2@gmail.com>, 2018
+msgid ""
+msgstr ""
+"Last-Translator: carlo mile <carlomile2@gmail.com>, 2018\n"
+"Language-Team: French (https://www.transifex.com/cryptostabasco/teams/89500/fr/)\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Title"
+msgstr "Sauver la vie des lamantins"
+
+msgid "Heading"
+msgstr ""
+"Les conflits d'aujourd'hui, les pertes futures, Donnez des crypto-monnaie et"
+" sauvez la vie des lamantins"
+
+msgid "Title2"
+msgstr "Le problème"
+
+msgid "Problem"
+msgstr ""
+"Depuis le 9 Mars 2018, il y avait une augementation majeurs de mort de nos "
+"100 lamantins dans les  marécages de Centla, incluant les comtés de Centla, "
+"Jonuta et Macuspana. Cette région a été décrétée zone naturelle protégée. "
+"Pour cette raison, certains des puits de pétrole voisins ont été fermés et "
+"d'autres sont restés actifs sans aucun entretien. À l’heure actuelle, de "
+"nombreuses fuites et des pipelines brisés ont causé la mort de plusieurs "
+"espèces dans la région."
+
+msgid "Title3"
+msgstr "Notre Campagne "
+
+msgid "Action"
+msgstr ""
+"Nous faisons une alliance entre les ONG locales pour l’implémentation d'un "
+"plan de sauvetage des lamantins, qui consiste à emmener les lamantins dans "
+"une zone de quarantaine, loin de la zone polluée touchée, causant la mort de"
+" nos lamantins et d'autres espèces de la région."
+
+msgid "Title4"
+msgstr "Notre challenge et comment vous pouvez aider"
+
+msgid "Help"
+msgstr ""
+"Le plus gros problème auquel nous sommes confrontés est le manque de "
+"ressources pour mener à bien les études physico-chimiques afin de déterminer"
+" la raison de leur décès, le soutien du don peut aider le transfert de "
+"l'espèce vers des zones sans contamination fournissant les soins nécessaires"
+" et la nourriture ainsi que leur donner les médicaments dont ils ont besoin,"
+" les paiements au personnel qualifié et la réalisation des études "
+"pertinentes."
+
+msgid "Title5"
+msgstr "Les services"
+
+msgid "Services"
+msgstr ""
+"Depuis le 9 mars 2018, plus de 100 lamantins ont été tués à Pantanos de "
+"Centla, qui comprend les municipalités de Centla, Jonuta et Macuspana. Cet "
+"endroit a été décrété comme zone naturelle protégée. Pour cette raison, "
+"certains des puits de pétrole voisins ont été fermés et d'autres sont restés"
+" actifs sans aucun entretien. À l'heure actuelle, de nombreuses fuites et "
+"des pipelines brisés ont causé la mort de l'espèce."
+
+msgid "Title6"
+msgstr "Dons"
+
+msgid "Donations"
+msgstr ""
+"Vous pouvez nous aider en envoyant de la crypto-monnaie et nous assurez que "
+"que nous recevrons l'argent sans intermédiaire et en nous aidant à sauver "
+"les espèces et nous pouvons assurer le future de nos chers lamantins. "
+
+msgid "Buttons"
+msgstr "Faire un don"
+
+msgid "Title7"
+msgstr "Parler avec notre équipe"
+
+msgid "Title8"
+msgstr "Nous sommes des experts dans"
+
+msgid "Item1"
+msgstr ""
+"<strong>Sed ut perspiciatis<strong><br />Lorem ipsum dolor sit amet, "
+"consectetur adipisicing elit. Ab aut dignissimos ea est, impedit incidunt, "
+"laboriosam consectetur adipisicing elit."
+
+msgid "Item2"
+msgstr ""
+"<strong>psum quia dolor<strong><br />Lorem ipsum dolor sit amet, consectetur"
+" adipisicing elit. Ab aut dignissimos ea est, impedit incidunt, laboriosam "
+"consectetur adipisicing elit."
+
+msgid "Item3"
+msgstr ""
+"<strong>psum quia dolor<strong><br />Lorem ipsum dolor sit amet, consectetur"
+" adipisicing elit. Ab aut dignissimos ea est, impedit incidunt, laboriosam "
+"consectetur adipisicing elit."
+
+msgid "Title9"
+msgstr "Notre projet"
+
+msgid "Title19"
+msgstr "Ce que les gens disent"
+
+msgid "Message1"
+msgstr ""
+"<span class=\"author\">Author 1</span><br />Laboris nisi ut aliquip ex ea "
+"commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit"
+" esse cillum dolore eu fugiat nulla pariatur."
+
+msgid "Message2"
+msgstr ""
+"<span class=\"author\">Author 2</span><br />Laboris nisi ut aliquip ex ea "
+"commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit"
+" esse cillum dolore eu fugiat nulla pariatur."
+
+msgid "Message3"
+msgstr ""
+"<span class=\"author\">Author 3</span><br />Laboris nisi ut aliquip ex ea "
+"commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit"
+" esse cillum dolore eu fugiat nulla pariatur."
+
+msgid "Title11"
+msgstr "Contactez-nous"
+
+msgid "Address1"
+msgstr "435 City hall, New York City SD092."
+
+msgid "Title12"
+msgstr "Information de contact"
+
+msgid "Title13"
+msgstr "Connectez avec nous sur les réseaux sociaux"
+
+msgid "Footer1"
+msgstr "RITA"
+
+msgid "Footer_menu1"
+msgstr "Acceuil"
+
+msgid "Footer_menu2"
+msgstr "A propos"
+
+msgid "Footer_menu3"
+msgstr "Services"
+
+msgid "Footer_menu4"
+msgstr "Equipe"
+
+msgid "Footer_menu5"
+msgstr "Projet"
+
+msgid "Footer_menu6"
+msgstr "Contactez-nous"
