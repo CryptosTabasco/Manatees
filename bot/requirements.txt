@@ -9,6 +9,6 @@ pbr==4.2.0
 python-dateutil==2.7.3
 requests==2.19.1
 six==1.11.0
-urllib3==1.23
+urllib3==1.24.2
 websocket-client==0.40.0
 pycron==0.80.0
